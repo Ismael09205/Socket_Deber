@@ -28,7 +28,7 @@ Este proyecto ofrece un chat básico con registro de usuarios, mensajes globales
 
 
 ```bash
-npm install
+npm server.js
 ```
 
 ## Uso
@@ -68,9 +68,12 @@ http://localhost:3000
 
 ## Capturas de pantalla
 
-![Chat global](screenshots/chat-global.png)
+<img width="1569" height="768" alt="image" src="https://github.com/user-attachments/assets/11b4f6dd-8eea-46c8-8edb-c6d1e9027f9f" />
 
-![Chat privado](screenshots/chat-privado.png)
 
-![Usuarios conectados](screenshots/usuarios-conectados.png)
+<img width="1569" height="775" alt="image" src="https://github.com/user-attachments/assets/09baf8e3-8472-46db-b9ee-ad3c355aecf1" />
+
+
+<img width="1583" height="777" alt="image" src="https://github.com/user-attachments/assets/dfad9f00-92ff-4519-a167-3f6015e54cb2" />
+
 
