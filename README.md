@@ -76,4 +76,12 @@ http://localhost:3000
 
 <img width="1583" height="777" alt="image" src="https://github.com/user-attachments/assets/dfad9f00-92ff-4519-a167-3f6015e54cb2" />
 
+## Integrantes
+
+- `Edwin Chusin
+- `Joel Acosta
+- `Ismael Narvaez
+
+
+
 
