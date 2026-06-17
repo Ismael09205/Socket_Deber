@@ -78,9 +78,9 @@ http://localhost:3000
 
 ## Integrantes
 
-- `Edwin Chusin
-- `Joel Acosta
-- `Ismael Narvaez
+- Edwin Chusin
+- Joel Acosta
+- Ismael Narvaez
 
 
 
